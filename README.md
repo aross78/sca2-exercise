@@ -1,4 +1,4 @@
 # SCA 2 Exercises
 
-Exercises for the 2019 SCA 2
+This repository contains exercises for Harvard Student Agency's Coding Level II workshop in JavaScript.
  
